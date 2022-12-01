@@ -22,7 +22,8 @@ This visualization aims to shows the progress across the UN regions aggregated [
 
 #### Regional Data Factsheet
 The Sustainable Development Report is launched annually during the HLPF in July that convenes in New York and focus on the global progress. This visualization aims to show a snapshot of the SDG progress on the regional level.
-![regional_data_fact_sheet_SSA_p1](https://user-images.githubusercontent.com/78350303/205080787-1acb2f83-5ba0-4e71-afd5-295021a4fabd.jpg)
+![regional_data_fact_sheet_SSA_p2](https://user-images.githubusercontent.com/78350303/205080994-ec200d5d-1219-4c76-8bed-bbd524720dee.jpg)
+
 
 
 ### Project 4: [US Food Desert - Predictive Model](https://github.com/cwtravisyip/USDA_food_desert)
