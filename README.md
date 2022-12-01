@@ -7,5 +7,5 @@ A repository serving as a professional portfolio, showcasing previous work in da
 
 ### Project 2: Cost-Benefit Analysis of New York Congestion Charge
 
-### Project 3: (Sustainable Development Goal Indicators)[https://github.com/cwtravisyip/unsd_global_database]
+### Project 3: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
 
