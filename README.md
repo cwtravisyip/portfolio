@@ -17,7 +17,7 @@ The current practice for the production of progress chart computes the geometric
 <img src="https://user-images.githubusercontent.com/78350303/205074689-be57569c-9136-4269-b360-1870afa0bf34.jpg" width = 50% height = 50%>
 
 #### Regional data grid plot 
-This visualization aims to shows the progress across the UN regions aggregated [M49 standards](https://unstats.un.org/unsd/methodology/m49/). Due to space contrain, the UNSD Sustainable Development Goals Report only provides cross-sectional snapshot of the status of progress of the SDGs. This templates shows the historical trend in comparison of other UN regions.
+This visualization aims to shows the progress across the UN regions aggregated [M49 standards](https://unstats.un.org/unsd/methodology/m49/). Due to space contrain, the UNSD Sustainable Development Goals Report only provides cross-sectional snapshot of the status of progress of the SDGs. This templates shows the historical trend in comparison of other UN regions.  
 ![7_1_EG_IFF_RANDN](https://user-images.githubusercontent.com/78350303/205080036-f90ecec3-b2bd-41cb-a03d-d470b35ba449.jpg)
 
 #### Regional Data Factsheet
