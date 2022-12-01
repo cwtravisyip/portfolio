@@ -21,7 +21,7 @@ This visualization aims to shows the progress across the UN regions aggregated [
 ![7_1_EG_IFF_RANDN](https://user-images.githubusercontent.com/78350303/205080036-f90ecec3-b2bd-41cb-a03d-d470b35ba449.jpg)
 
 #### Regional Data Factsheet
-The Sustainable Development Report is launched annually during the HLPF in July that convenes in New York and focus on the global progress. This visualization aims to show a snapshot of the SDG progress on the regional level.  
+The Sustainable Development Report is launched annually during the HLPF in July that convenes in New York and focus on the global progress. This visualization aims to show a snapshot of the SDG progress on the regional level.   
 <img src="https://user-images.githubusercontent.com/78350303/205080994-ec200d5d-1219-4c76-8bed-bbd524720dee.jpg" width = 50% height = 50%>
 
 
