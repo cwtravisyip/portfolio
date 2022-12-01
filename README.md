@@ -5,7 +5,7 @@ A repository serving as a professional portfolio, showcasing previous work in da
 
 `#Geospacial Data` `#API Request` `#geoPandas` `#Matplotlib`
 
-### Project 2: [Cost-Benefit Analysis of New York Congestion Charge](https://github.com/cwtravisyip/nyc_congestioncharge_economicanalysis_
+### Project 2: [Cost-Benefit Analysis of New York Congestion Charge](https://github.com/cwtravisyip/nyc_congestioncharge_economicanalysis)
 
 ### Project 3: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
 
