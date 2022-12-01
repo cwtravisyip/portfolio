@@ -1,9 +1,12 @@
-# Data Analyst Portfolio
+# Data Analyst Portfolio of Work
 A repository serving as a professional portfolio, showcasing previous work in data analysis. All coding files are written in the python language.
 
-## Project 1: Geospatial Data
+### Project 1: Paris Urban Analysis
 
+`#geospacial data` `#api request` `#geoPandas`
 
-## Project 2: Economic Analysis
+## Economic Analysis
+### Project X: Cost-Benefit Analysis of New York Congestion Charge
 
-## Project 3: Sustainable Development Goal Indicators
+## Sustainable Development Goal Indicators
+### 
