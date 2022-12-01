@@ -3,10 +3,9 @@ A repository serving as a professional portfolio, showcasing previous work in da
 
 ### Project 1: Paris Urban Analysis
 
-`#geospacial data` `#api request` `#geoPandas`
+`#Geospacial Data` `#API Request` `#geoPandas` `#Matplotlib`
 
-## Economic Analysis
-### Project X: Cost-Benefit Analysis of New York Congestion Charge
+### Project 2: Cost-Benefit Analysis of New York Congestion Charge
 
-## Sustainable Development Goal Indicators
-### 
+### Project 3: Sustainable Development Goal Indicators
+
