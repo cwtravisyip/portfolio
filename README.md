@@ -3,6 +3,7 @@ A repository serving as a professional portfolio, showcasing previous work in da
 
 ### Project 1: [Paris Urban Analysis](https://github.com/cwtravisyip/paris_urban_data_visualisation)
 
+`#Data Visualizaion`
 `#Geospacial Data` `#API Request` `#geoPandas` `#Matplotlib`
 
 ### Project 2: [Cost-Benefit Analysis of New York Congestion Charge](https://github.com/cwtravisyip/nyc_congestioncharge_economicanalysis)
