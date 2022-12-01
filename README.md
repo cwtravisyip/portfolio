@@ -10,9 +10,20 @@ This is a data visualization project contributing to the analysis of Paris's urb
 
 ### Project 3: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
 `#Data Visualizaion` `#API Request` `#Matplotlib`
-Progress chart
-Comparing time series data across different UN regions ([M49 standards](https://unstats.un.org/unsd/methodology/m49/)).
-SDG of the year, namely goal 7
+Using the data from the [UN Statistics SDG Global Database](https://unstats.un.org/sdgs/dataportal), this project aims to visualize the global progress on the Sustainable Development Goals. This progress seeks to provide alternative visualization methods that are being used for the current practice of the UN Statatistics.
+
+#### Progress Chart
+The current practice for the production of progress chart computes the geometric mean of the annual compound rate of growth, which is then used to calculate the data point for 2030. This visualization aims to better reflect historical time series data while also showing the anticipated level with higher transparency. 
+![ind_060201_](https://user-images.githubusercontent.com/78350303/205074689-be57569c-9136-4269-b360-1870afa0bf34.jpg)
+
+#### Regional data grid plot 
+This visualization aims to shows the progress across the UN regions aggregated [M49 standards](https://unstats.un.org/unsd/methodology/m49/). Due to space contrain, the UNSD Sustainable Development Goals Report only provides cross-sectional snapshot of the status of progress of the SDGs. This templates shows the historical trend in comparison of other UN regions.
+![7_1_EG_IFF_RANDN](https://user-images.githubusercontent.com/78350303/205080036-f90ecec3-b2bd-41cb-a03d-d470b35ba449.jpg)
+
+#### Regional Data Factsheet
+The Sustainable Development Report is launched annually during the HLPF in July that convenes in New York and focus on the global progress. This visualization aims to show a snapshot of the SDG progress on the regional level.
+![regional_data_fact_sheet_SSA_p1](https://user-images.githubusercontent.com/78350303/205080787-1acb2f83-5ba0-4e71-afd5-295021a4fabd.jpg)
+
 
 ### Project 4: [US Food Desert - Predictive Model](https://github.com/cwtravisyip/USDA_food_desert)
 `#Data Visualizaion` `#API Request` `#Matplotlib`
