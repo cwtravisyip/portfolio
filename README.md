@@ -14,7 +14,7 @@ Using the data from the [UN Statistics SDG Global Database](https://unstats.un.o
 
 #### Progress Chart
 The current practice for the production of progress chart computes the geometric mean of the annual compound rate of growth, which is then used to calculate the data point for 2030. This visualization aims to better reflect historical time series data while also showing the anticipated level with higher transparency. 
-![ind_060201_](https://user-images.githubusercontent.com/78350303/205074689-be57569c-9136-4269-b360-1870afa0bf34.jpg =100x)
+![ind_060201_](https://user-images.githubusercontent.com/78350303/205074689-be57569c-9136-4269-b360-1870afa0bf34.jpg)
 
 #### Regional data grid plot 
 This visualization aims to shows the progress across the UN regions aggregated [M49 standards](https://unstats.un.org/unsd/methodology/m49/). Due to space contrain, the UNSD Sustainable Development Goals Report only provides cross-sectional snapshot of the status of progress of the SDGs. This templates shows the historical trend in comparison of other UN regions.
