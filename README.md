@@ -8,6 +8,7 @@ This is a data visualization project contributing to the analysis of Paris's urb
 
 ### Project 2: [Cost-Benefit Analysis of New York Congestion Charge](https://github.com/cwtravisyip/nyc_congestioncharge_economicanalysis)
 
+
 ### Project 3: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
 `#Data Visualizaion` `#API Request` `#Matplotlib`
 Using the data from the [UN Statistics SDG Global Database](https://unstats.un.org/sdgs/dataportal), this project aims to visualize the global progress on the Sustainable Development Goals. This progress seeks to provide alternative visualization methods that are being used for the current practice of the UN Statatistics.
