@@ -12,5 +12,9 @@ This is a data visualization project contributing to the analysis of Paris's urb
 ### Project 2: [Cost-Benefit Analysis of New York Congestion Charge](https://github.com/cwtravisyip/nyc_congestioncharge_economicanalysis)
 
 ### Project 3: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
+`#Data Visualizaion` `#API Request` `#Matplotlib`
+Progress chart
+Comparing time series data across different UN regions [M49 standards](https://unstats.un.org/unsd/methodology/m49/)
+SDG of the year, namely goal 7
 
 ### Project 4: [US Food Desert - Predictive Model](https://github.com/cwtravisyip/USDA_food_desert)
