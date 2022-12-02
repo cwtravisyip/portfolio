@@ -12,7 +12,7 @@ This is a data visualization project contributing to the analysis of Paris's urb
 Using the data from the [UN Statistics SDG Global Database](https://unstats.un.org/sdgs/dataportal), this project aims to visualize the global progress on the Sustainable Development Goals. This progress seeks to provide alternative visualization methods that are being used for the current practice of the UN Statatistics.
 
 #### Progress Chart
-The current practice for the production of progress chart computes the geometric mean of the annual compound rate of growth, which is then used to calculate the data point for 2030. This visualization aims to better reflect historical time series data while also showing the anticipated level with higher transparency. 
+The current practice for the production of progress chart computes the geometric mean of the annual compound rate of growth, which is then used to calculate the data point for 2030. This visualization aims to better reflect historical time series data while also showing the anticipated level with higher transparency.  
 <img src="https://user-images.githubusercontent.com/78350303/205074689-be57569c-9136-4269-b360-1870afa0bf34.jpg" width = 50% height = 50%>
 
 #### Regional data grid plot 
