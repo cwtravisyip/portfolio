@@ -8,7 +8,7 @@ This is a data visualization project contributing to the analysis of Paris's urb
 
 
 ### Project 2: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
-`#Data Visualizaion` `#API Request` `#Matplotlib`
+`#Data Visualizaion` `#API Request` `#Matplotlib`  
 Using the data from the [UN Statistics SDG Global Database](https://unstats.un.org/sdgs/dataportal), this project aims to visualize the global progress on the Sustainable Development Goals. This progress seeks to provide alternative visualization methods that are being used for the current practice of the UN Statatistics.
 
 #### Progress Chart
@@ -25,14 +25,16 @@ The Sustainable Development Report is launched annually during the HLPF in July 
 
 
 ### Project 3: [US Food Desert - Predictive Model](https://github.com/cwtravisyip/USDA_food_desert)
-`#Machine Learning` `#Data Visualizaion` `#API Request` `#Statsmodel` `#sklearn` `#Matplotlib` `#Seaborn`
+`#Machine Learning` `#Data Visualizaion` `#API Request` `#Statsmodel` `#sklearn` `#Matplotlib` `#Seaborn`  
 This is a machine learning project as contributing to the group project for HKU ECON3225 Big Data Economics. The research is motivated by a CNBC production titled "[Why grocery stores are avoiding black neighborhood?](https://www.youtube.com/watch?v=Rd8J-9uUnfc&t=492s)" The project gathers data from the US Department of Agriculture and Census Bureau. By merging the data sets on the unique census tract i.d., 71,642 data census tract were used to train and test the machine learning model.  
 <img src="https://user-images.githubusercontent.com/78350303/204408348-bdaa7aac-fbff-4282-9405-353fed60005b.png" width = 50% height = 50% >
 
 
 ### Project 4: [Cost-Benefit Analysis of New York Congestion Charge](https://github.com/cwtravisyip/nyc_congestioncharge_economicanalysis)
+`#Data Manipulation` `#Data Visualization` `#Pandas` `#Seaborn`
 Using the python function, the project seeks perform an economic analysis of the proposed congestion charge in New York. The parameters and the methodology is informed by a series of literature reviews on the implementation os similar charges in London and Gothenburg.  
-<img src= "line_of_zeroNPV](https://user-images.githubusercontent.com/78350303/205379940-5b36829f-6ee6-4a27-a6dc-fef61e2e3205.jpg" width=50% height=50%> 
+
+<img src="https://user-images.githubusercontent.com/78350303/205379940-5b36829f-6ee6-4a27-a6dc-fef61e2e3205.jpg" width=50% height=50%> 
 
 
 ### Upcoming Project: Building Height by Region
