@@ -36,5 +36,3 @@ Using the python function, the project seeks perform an economic analysis of the
 
 <img src="https://user-images.githubusercontent.com/78350303/205379940-5b36829f-6ee6-4a27-a6dc-fef61e2e3205.jpg" width=50% height=50%> 
 
-
-### Upcoming Project: Building Height by Region
