@@ -4,7 +4,8 @@ A repository serving as a professional portfolio, showcasing previous work in da
 ### Project 1: [Paris Urban Analysis](https://github.com/cwtravisyip/paris_urban_data_visualisation) 
 `#Data Visualizaion` `#Geospacial Data` `#API Request` `#geoPandas` `#Matplotlib`  
 This is a data visualization project contributing to the analysis of Paris's urban fabric as part of the HKU URBS1003 coursework. The data is gathered through manual search, but also API request call on the Atelier Parisien d'Urbanism database. The end products include chloropleth maps and bar charts.
-![building_age](https://user-images.githubusercontent.com/78350303/204972170-62b28306-20b1-46c1-a1f3-34cc0d846fd9.png)
+![building_age](https://github.com/cwtravisyip/portfolio/assets/78350303/b9f6a24a-1094-46f1-adc2-4e4e3505606e)
+
 
 
 ### Project 2: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
