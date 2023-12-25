@@ -1,14 +1,18 @@
 # Data Analyst Portfolio of Work
 A repository serving as a professional portfolio, showcasing previous work in data analysis. All coding files are written in the python language.
 
-### Project 1: [Paris Urban Analysis](https://github.com/cwtravisyip/paris_urban_data_visualisation) 
+### Project 1: [US Food Desert - Predictive Model](https://github.com/cwtravisyip/USDA_food_desert)
+`#Machine Learning` `#Data Visualizaion` `#API Request` `#Statsmodel` `#sklearn` `#Matplotlib` `#Seaborn`  
+This is a machine learning project as contributing to the group project for HKU ECON3225 Big Data Economics. The research is motivated by a CNBC production titled "[Why grocery stores are avoiding black neighborhood?](https://www.youtube.com/watch?v=Rd8J-9uUnfc&t=492s)" The project gathers data from the US Department of Agriculture and Census Bureau. By merging the data sets on the unique census tract i.d., 71,642 data census tract were used to train and test the machine learning model.  
+<img src="https://user-images.githubusercontent.com/78350303/204408348-bdaa7aac-fbff-4282-9405-353fed60005b.png" width = 50% height = 50% >
+
+### Project 2: [Paris Urban Analysis](https://github.com/cwtravisyip/paris_urban_data_visualisation) 
 `#Data Visualizaion` `#Geospacial Data` `#API Request` `#geoPandas` `#Matplotlib`  
 This is a data visualization project contributing to the analysis of Paris's urban fabric as part of the HKU URBS1003 coursework. The data is gathered through manual search, but also API request call on the Atelier Parisien d'Urbanism database. The end products include chloropleth maps and bar charts.
 ![building_age](https://github.com/cwtravisyip/portfolio/assets/78350303/b9f6a24a-1094-46f1-adc2-4e4e3505606e)
 
 
-
-### Project 2: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
+### Project 3: [Sustainable Development Goal Indicators](https://github.com/cwtravisyip/unsd_global_database)
 `#Data Visualizaion` `#API Request` `#Matplotlib`  
 Using the data from the [UN Statistics SDG Global Database](https://unstats.un.org/sdgs/dataportal), this project aims to visualize the global progress on the Sustainable Development Goals. This progress seeks to provide alternative visualization methods that are being used for the current practice of the UN Statatistics.
 
@@ -24,12 +28,6 @@ The current practice for the production of progress chart computes the geometric
 This visualization aims to shows the progress across the UN regions aggregated [M49 standards](https://unstats.un.org/unsd/methodology/m49/). Due to space contrain, the UNSD Sustainable Development Goals Report only provides cross-sectional snapshot of the status of progress of the SDGs. This templates shows the historical trend in comparison of other UN regions.
 ![7_1_EG_IFF_RANDN](https://user-images.githubusercontent.com/78350303/205080036-f90ecec3-b2bd-41cb-a03d-d470b35ba449.jpg)
 
-
-
-### Project 3: [US Food Desert - Predictive Model](https://github.com/cwtravisyip/USDA_food_desert)
-`#Machine Learning` `#Data Visualizaion` `#API Request` `#Statsmodel` `#sklearn` `#Matplotlib` `#Seaborn`  
-This is a machine learning project as contributing to the group project for HKU ECON3225 Big Data Economics. The research is motivated by a CNBC production titled "[Why grocery stores are avoiding black neighborhood?](https://www.youtube.com/watch?v=Rd8J-9uUnfc&t=492s)" The project gathers data from the US Department of Agriculture and Census Bureau. By merging the data sets on the unique census tract i.d., 71,642 data census tract were used to train and test the machine learning model.  
-<img src="https://user-images.githubusercontent.com/78350303/204408348-bdaa7aac-fbff-4282-9405-353fed60005b.png" width = 50% height = 50% >
 
 
 ### Project 4: [Cost-Benefit Analysis of New York Congestion Charge](https://github.com/cwtravisyip/nyc_congestioncharge_economicanalysis)
