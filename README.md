@@ -3,8 +3,8 @@ A repository serving as a professional portfolio, showcasing previous work in da
 
 ### Project 1: [US Food Desert - Predictive Model](https://github.com/cwtravisyip/USDA_food_desert)
 `#Machine Learning` `#Data Visualizaion` `#API Request` `#Statsmodel` `#sklearn` `#Matplotlib` `#Seaborn`  
-This is a machine learning project as contributing to the group project for HKU ECON3225 Big Data Economics. The research is motivated by a CNBC production titled "[Why grocery stores are avoiding black neighborhood?](https://www.youtube.com/watch?v=Rd8J-9uUnfc&t=492s)" The project gathers data from the US Department of Agriculture and Census Bureau. By merging the data sets on the unique census tract i.d., 71,642 data census tract were used to train and test the machine learning model.  
-<img src="https://user-images.githubusercontent.com/78350303/204408348-bdaa7aac-fbff-4282-9405-353fed60005b.png" width = 50% height = 50% >
+This is a machine learning project as contributing to the group project for HKU ECON3225 Big Data Economics. The research is motivated by a CNBC production titled "[Why grocery stores are avoiding black neighborhood?](https://www.youtube.com/watch?v=Rd8J-9uUnfc&t=492s)" The project gathers data from the US Department of Agriculture and Census Bureau. By merging the data sets on the unique census tract i.d., 71,642 data census tract were used to train and test the machine learning model.
+Due to the class imbalance, logistic regression model did not perform well. There is significant improvement with a decision tree classifier while a random forest, however, shows similar performance with the logistic regression model. The decision tree shows that physical geographical factors have a high explanatory power to the onset of food desert. Interestly, the density of black community is also fairly significant compared to all other variables under consideration.
 ![food_desert_map](https://github.com/cwtravisyip/portfolio/assets/78350303/c150c8d5-4ad3-467b-a40e-646690a259bf)
 
 
