@@ -5,6 +5,8 @@ A repository serving as a professional portfolio, showcasing previous work in da
 `#Machine Learning` `#Data Visualizaion` `#API Request` `#Statsmodel` `#sklearn` `#Matplotlib` `#Seaborn`  
 This is a machine learning project as contributing to the group project for HKU ECON3225 Big Data Economics. The research is motivated by a CNBC production titled "[Why grocery stores are avoiding black neighborhood?](https://www.youtube.com/watch?v=Rd8J-9uUnfc&t=492s)" The project gathers data from the US Department of Agriculture and Census Bureau. By merging the data sets on the unique census tract i.d., 71,642 data census tract were used to train and test the machine learning model.  
 <img src="https://user-images.githubusercontent.com/78350303/204408348-bdaa7aac-fbff-4282-9405-353fed60005b.png" width = 50% height = 50% >
+![food_desert_map](https://github.com/cwtravisyip/portfolio/assets/78350303/c150c8d5-4ad3-467b-a40e-646690a259bf)
+
 
 ### Project 2: [Paris Urban Analysis](https://github.com/cwtravisyip/paris_urban_data_visualisation) 
 `#Data Visualizaion` `#Geospacial Data` `#API Request` `#geoPandas` `#Matplotlib`  
